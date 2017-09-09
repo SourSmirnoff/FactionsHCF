@@ -1,2 +1,2 @@
 # FactionsHCF
-Advanced HCF Plugin
+Non-Advanced HCF Plugin
